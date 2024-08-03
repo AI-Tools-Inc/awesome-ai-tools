@@ -9,7 +9,7 @@ A curated list of awesome AI tools to help automate your workflows and 10x your 
 
 ## Developer Tools
 
-- [GitHub CoPilot](https://aitools.inc/tools/github-copilot) - Code smarter, build faster [![Globe Icon][globe-icon]](https://github.com/features/copilot)
+- [GitHub CoPilot](https://aitools.inc/tools/github-copilot) - Code smarter, build faster [![Link Icon][link-icon]](https://github.com/features/copilot)
 - [CodeWiz](https://aitools.inc/tools/codewiz) - Turn coding challenges into victories
 - [Codeium](https://aitools.inc/tools/codeium) - Supercharge your coding workflow
 
@@ -39,4 +39,4 @@ A curated list of awesome AI tools to help automate your workflows and 10x your 
 
 ## Web Scraping Tools
 
-[globe-icon]: https://raw.githubusercontent.com/AI-Tools-Inc/Awesome-AI-Tools/main/globe.svg "Globe Icon"
+[link-icon]: https://raw.githubusercontent.com/AI-Tools-Inc/Awesome-AI-Tools/main/link.svg "Link Icon"
