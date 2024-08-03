@@ -38,3 +38,5 @@ A curated list of awesome AI tools to help automate your workflows and 10x your 
 ## Knowledge Management Tools
 
 ## Web Scraping Tools
+
+[globe-icon]: https://raw.githubusercontent.com/AI-Tools-Inc/Awesome-AI-Tools/main/globe.svg "Globe Link Icon"
