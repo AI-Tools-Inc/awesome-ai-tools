@@ -11,6 +11,7 @@ A curated list of awesome AI tools to help automate your workflows and 10x your 
 
 - [GitHub CoPilot](https://aitools.inc/tools/github-copilot) - Code smarter, build faster
 - [CodeWiz](https://aitools.inc/tools/codewiz) - Turn coding challenges into victories
+- [Codeium](https://aitools.inc/tools/codeium) - Supercharge your coding workflow
 
 ## Summarizers
 
