@@ -4,7 +4,7 @@
 
 A curated list of awesome AI tools to help automate your workflows and 10x your output. Checkout [AI Tools](https://aitools.inc) for even more tools and recommendations.
 
-If you find this list helpful, please give us a Star!
+If you find this helpful, please give us a Star!
 
 ## Contents
 
