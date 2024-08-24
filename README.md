@@ -214,6 +214,12 @@ If you find this list helpful, please give us a Star!
 - [Deep Nostalgia](https://aitools.inc/tools/deep-nostalgia) - Breathe life into cherished family photos [![link]](https://www.myheritage.com/deep-nostalgia)
 - [Remini](https://aitools.inc/tools/remini) - Bring faded images back to life [![link]](https://remini.ai/)
 
+### AI Thumbnail Makers
+
+- [Thumbly](https://aitools.inc/tools/thumbly) - Skyrocket your video views with captivating thumbnails [![link]](https://www.thumbly.io/)
+- [Pikzels](https://aitools.inc/tools/pikzels) - Create thumbnails that captivate viewers [![link]](https://www.pikzels.com/)
+- [vidIQ](https://aitools.inc/tools/vidiq) - Accelerate your YouTube audience growth [![link]](https://vidiq.com/)
+
 ## AI Video Tools
 
 ### AI Video Generators
@@ -248,6 +254,7 @@ If you find this list helpful, please give us a Star!
 - [Chopcast](https://aitools.inc/tools/chopcast) - Turn long videos into bite-sized social content [![link]](https://www.chopcast.io/)
 - [Wisecut AI](https://aitools.inc/tools/wisecut-ai) - Transform long videos into viral-worthy clips [![link]](https://www.wisecut.ai/)
 - [OpusClip](https://aitools.inc/tools/opusclip) - Repurpose your videos into social media gold [![link]](https://www.opus.pro/)
+- [Submagic](https://aitools.inc/tools/submagic) - Unleash your content's viral potential [![link]](https://www.submagic.co/)
 
 ### AI Subtitles & Captions Generators
 
