@@ -18,6 +18,13 @@ A curated list of awesome AI tools to help automate your workflows and 10x your 
 - [Phind](https://aitools.inc/tools/phind) - From idea to code in record time [![link]](https://www.phind.com/search?home=true)
 - [Code Snippets AI](https://aitools.inc/tools/code-snippets-ai) - Revolutionize your coding workflow [![link]](https://codesnippets.ai/)
 
+## AI Code Review Tools
+
+- [CodeRabbit](https://aitools.inc/tools/coderabbit) - Elevate code quality with intelligent feedback [![link]](https://coderabbit.ai/)
+- [Sourcery](https://aitools.inc/tools/sourcery) - Supercharge your code reviews [![link]](https://sourcery.ai/)
+- [Bito AI](https://aitools.inc/tools/bito-ai) - Supercharge your coding productivity [![link]](https://bito.ai/)
+- [Metabob](https://aitools.inc/tools/metabob) - Uncover hidden errors in your codebase [![link]](https://metabob.com/)
+
 ## AI SQL Tools
 
 - [AI2sql](https://aitools.inc/tools/ai2sql) - Transform natural language into powerful SQL [![link]](https://ai2sql.io/)
