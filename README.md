@@ -100,6 +100,8 @@ If you find this list helpful, please give us a Star!
 - [Vizard](https://aitools.inc/tools/vizard) - Transform lengthy content into captivating clips [![link]](https://vizard.ai/)
 - [Chopcast](https://aitools.inc/tools/chopcast) - Turn long videos into bite-sized social content [![link]](https://www.chopcast.io/)
 - [Wisecut AI](https://aitools.inc/tools/wisecut-ai) - Transform long videos into viral-worthy clips [![link]](https://www.wisecut.ai/)
+- [Flickify](https://aitools.inc/tools/flickify) - Effortlessly turn articles into engaging videos [![link]](https://www.flickify.com/)
+- [Powder](https://aitools.inc/tools/powder) - Turn long streams into viral-ready clips [![link]](https://powder.gg/)
 
 ### AI SEO Tools
 
@@ -211,6 +213,59 @@ If you find this list helpful, please give us a Star!
 - [Palette.fm](https://aitools.inc/tools/palette-fm) - Transform black and white photos with lifelike hues [![link]](https://palette.fm)
 - [Deep Nostalgia](https://aitools.inc/tools/deep-nostalgia) - Breathe life into cherished family photos [![link]](https://www.myheritage.com/deep-nostalgia)
 - [Remini](https://aitools.inc/tools/remini) - Bring faded images back to life [![link]](https://remini.ai/)
+
+## AI Video Tools
+
+### AI Video Generators
+
+- [Runway](https://aitools.inc/tools/runway) - Unleash impossible video creations [![link]](https://runwayml.com/)
+- [invideo AI](https://aitools.inc/tools/invideo-ai) - Create publish-ready videos with text prompts [![link]](https://invideo.io/ai/)
+- [Fliki](https://aitools.inc/tools/fliki) - Turn your text into captivating videos [![link]](https://fliki.ai/)
+- [Genmo AI](https://aitools.inc/tools/genmo-ai) - Bring your stories to life through video [![link]](https://www.genmo.ai/)
+- [Wonder Studio](https://aitools.inc/tools/wonder-studio) - Bring CG characters to life effortlessly [![link]](https://wonderdynamics.com/)
+- [Vidnoz](https://aitools.inc/tools/vidnoz) - Turn text into professional videos [![link]](https://www.vidnoz.com)
+- [Deepshot AI](https://aitools.inc/tools/deepshot-ai) - Reimagine video editing possibilities [![link]](https://www.deepshot.ai/)
+
+### AI Video Editors
+
+- [Descript](https://aitools.inc/tools/descript) - Edit videos and podcasts like a document [![link]](https://www.descript.com/)
+- [Veed IO](https://aitools.inc/tools/veed-io) - Elevate your content with easy video editing [![link]](https://www.veed.io/)
+- [Capcut](https://aitools.inc/tools/capcut) - Elevate your content with powerful editing tools [![link]](https://www.capcut.com/)
+- [Jupitrr AI Video Maker](https://aitools.inc/tools/jupitrr) - Supercharge your content with relevant B-roll [![link]](https://jupitrr.com/)
+- [Flickify](https://aitools.inc/tools/flickify) - Effortlessly turn articles into engaging videos [![link]](https://www.flickify.com/)
+- [FlexClip](https://aitools.inc/tools/flexclip) - Elevate your content with effortless video editing [![link]](https://www.flexclip.com/)
+- [Nova AI](https://aitools.inc/tools/nova-ai) - Transform raw footage into captivating content [![link]](https://wearenova.ai/)
+- [Clipchamp](https://aitools.inc/tools/clipchamp) - Transform your footage into captivating videos [![link]](https://clipchamp.com/)
+
+### AI Video Clip & Short Form Video Generators
+
+- [Syllaby](https://aitools.inc/tools/syllaby) - Transform ideas into viral social videos [![link]](https://syllaby.io/)
+- [ShortMake](https://aitools.inc/tools/shortmake) - Turn simple ideas into engaging short-form videos [![link]](https://app.shortmake.com/)
+- [Vsub](https://aitools.inc/tools/vsub) - Streamline your faceless channel creation [![link]](https://vsub.io/)
+- [Powder](https://aitools.inc/tools/powder) - Turn long streams into viral-ready clips [![link]](https://powder.gg/)
+- [Flowjin](https://aitools.inc/tools/flowjin) - Repurpose long videos into captivating short clips [![link]](https://www.flowjin.com/)
+- [Vizard](https://aitools.inc/tools/vizard) - Transform lengthy content into captivating clips [![link]](https://vizard.ai/)
+- [Chopcast](https://aitools.inc/tools/chopcast) - Turn long videos into bite-sized social content [![link]](https://www.chopcast.io/)
+- [Wisecut AI](https://aitools.inc/tools/wisecut-ai) - Transform long videos into viral-worthy clips [![link]](https://www.wisecut.ai/)
+- [OpusClip](https://aitools.inc/tools/opusclip) - Repurpose your videos into social media gold [![link]](https://www.opus.pro/)
+
+### AI Subtitles & Captions Generators
+
+- [Captions](https://aitools.inc/tools/captions) - Elevate your video content effortlessly [![link]](https://www.captions.ai/)
+- [Simon Says AI](https://aitools.inc/tools/simon-says-ai) - Transcribe and translate in record time [![link]](https://www.simonsaysai.com/)
+
+### AI Talking Avatar Tools
+
+- [Synthesia](https://aitools.inc/tools/synthesia) - Generate studio-quality videos from text [![link]](https://www.synthesia.io)
+- [Creative Reality Studio (D-ID)](https://aitools.inc/tools/creative-reality-studio-d-id) - Engage your audience with lifelike avatars [![link]](https://www.d-id.com/creative-reality-studio/)
+
+### AI Animation Tools
+
+- [Wonder Studio](https://aitools.inc/tools/wonder-studio) - Bring CG characters to life effortlessly [![link]](https://wonderdynamics.com/)
+- [DeepMotion](https://aitools.inc/tools/deepmotion) - Transform videos into lifelike 3D animations [![link]](https://www.deepmotion.com/)
+- [Animaker](https://aitools.inc/tools/animaker) - Transform your story into captivating animations [![link]](https://www.animaker.com/)
+- [Krikey AI](https://aitools.inc/tools/krikey-ai) - Bring your 3D ideas to life in minutes [![link]](https://www.krikey.ai/)
+- [GoEnhance AI](https://aitools.inc/tools/goenhance-ai) - Transform ordinary videos into extraordinary animations [![link]](https://www.goenhance.ai/)
 
 ## AI Legal Tools
 
