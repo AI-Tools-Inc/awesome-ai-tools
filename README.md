@@ -154,4 +154,26 @@ If you find this list helpful, please give us a Star!
 - [Nureply](https://aitools.inc/tools/nureply) - Effortlessly send personalized emails [![link]](https://nureply.com/)
 - [Leadzen AI](https://aitools.inc/tools/leadzen-ai) - Accelerate your sales pipeline with precision [![link]](https://leadzen.ai/)
 
+## AI Image Tools
+
+### AI Image Generators
+
+- [Midjourney](https://aitools.inc/tools/midjourney) - Turn words into art instantly [![link]](https://midjourney.com)
+- [Stable Diffusion](https://aitools.inc/tools/stable-diffusion) - Transform text into photorealistic images [![link]](https://stability.ai/)
+- [Adobe Firefly](https://aitools.inc/tools/adobe-firefly) - Generate stunning visuals with ease [![link]](https://www.adobe.com/products/firefly.html)
+- [DALL-E 3](https://aitools.inc/tools/dall-e-3) - Transform your text into stunning images [![link]](https://openai.com/index/dall-e-3/)
+- [Magic Studio](https://aitools.inc/tools/magic-studio) - Create stunning images for any project [![link]](https://magicstudio.com/?via=ai-tools-inc)
+
+### AI Image Editors
+
+- [Lensa](https://aitools.inc/tools/lensa) - Transform your photos with one tap [![link]](https://prisma-ai.com/lensa)
+- [Dzine AI](https://aitools.inc/tools/dzine-ai) - Simple AI image editing [![link]](https://www.dzine.ai/)
+- [Adobe Photoshop](https://aitools.inc/tools/adobe-photoshop) - Turn your ideas into stunning visuals [![link]](https://www.adobe.com/products/photoshop.html)
+- [Playground AI](https://aitools.inc/tools/playground-ai) - Create and edit images like a pro [![link]](https://playground.com/)
+
+### AI Avatar Generators
+
+- [Artflow AI](https://aitools.inc/tools/artflow-ai) - Bring your imagined personas to life [![link]](https://app.artflow.ai/)
+- [Photo AI](https://aitools.inc/tools/photo-ai) - Transform your selfies into stunning photos [![link]](https://photoai.com/?via=ai-tools-inc)
+
 [link]: https://raw.githubusercontent.com/AI-Tools-Inc/Awesome-AI-Tools/main/link.svg "Link Icon"
