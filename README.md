@@ -162,7 +162,7 @@ If you find this list helpful, please give us a Star!
 - [Stable Diffusion](https://aitools.inc/tools/stable-diffusion) - Transform text into photorealistic images [![link]](https://stability.ai/)
 - [Adobe Firefly](https://aitools.inc/tools/adobe-firefly) - Generate stunning visuals with ease [![link]](https://www.adobe.com/products/firefly.html)
 - [DALL-E 3](https://aitools.inc/tools/dall-e-3) - Transform your text into stunning images [![link]](https://openai.com/index/dall-e-3/)
-- [Magic Studio](https://aitools.inc/tools/magic-studio) - Create stunning images for any project [![link]](https://magicstudio.com/?via=ai-tools-inc)
+- [Magic Studio](https://aitools.inc/tools/magic-studio) - Create stunning images for any project [![link]](https://magicstudio.com)
 
 ### AI Image Editors
 
@@ -174,6 +174,14 @@ If you find this list helpful, please give us a Star!
 ### AI Avatar Generators
 
 - [Artflow AI](https://aitools.inc/tools/artflow-ai) - Bring your imagined personas to life [![link]](https://app.artflow.ai/)
-- [Photo AI](https://aitools.inc/tools/photo-ai) - Transform your selfies into stunning photos [![link]](https://photoai.com/?via=ai-tools-inc)
+- [Photo AI](https://aitools.inc/tools/photo-ai) - Transform your selfies into stunning photos [![link]](https://photoai.com/)
+
+## AI Legal Tools
+
+- [DoNotPay](https://aitools.inc/tools/do-not-pay) - Fight back against corporate giants [![link]](https://donotpay.com/)
+- [Harvey AI](https://aitools.inc/tools/harvey-ai) - AI-driven solutions for legal professionals [![link]](https://www.harvey.ai/)
+- [Paxton AI](https://aitools.inc/tools/paxton-ai) - Improve your legal research [![link]](https://www.paxton.ai/)
+- [vLex](https://aitools.inc/tools/vlex) - AI-powered platform for legal research [![link]](https://vlex.com/)
+- [AI Lawyer](https://aitools.inc/tools/ai-lawyer-pro) - Effortlessly automate legal tasks [![link]](https://ailawyer.pro/)
 
 [link]: https://raw.githubusercontent.com/AI-Tools-Inc/Awesome-AI-Tools/main/link.svg "Link Icon"
