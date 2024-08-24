@@ -123,4 +123,18 @@ A curated list of awesome AI tools to help automate your workflows and 10x your 
 - [HoppyCopy](https://aitools.inc/tools/hoppycopy) - Craft compelling emails in record time [![link]](https://www.hoppycopy.co/)
 - [Neural Newsletters](https://aitools.inc/tools/neural-newsletters) - Craft captivating newsletters in minutes [![link]](https://neuralnewsletters.com/)
 
+### AI Infographic Generators
+
+- [Infogram](https://aitools.inc/tools/infogram) - Transform your data into captivating visual stories [![link]](https://infogram.com/)
+- [Venngage](https://aitools.inc/tools/venngage) - Transform complex information into captivating visuals [![link]](https://venngage.com/)
+
+### AI Influencer Generators
+
+- [Glambase](https://aitools.inc/tools/glambase) - Create and monetize your virtual influencer [![link]](https://glambase.app/)
+
+### AI UGC Tools
+
+- [Uplifted AI](https://aitools.inc/tools/uplifted-ai) - Transform customers into your best marketers [![link]](https://www.uplifted.ai/)
+- [UGCscripts](https://aitools.inc/tools/ugcscripts) - Craft compelling UGC scripts effortlessly [![link]](https://www.ugcscripts.com/)
+
 [link]: https://raw.githubusercontent.com/AI-Tools-Inc/Awesome-AI-Tools/main/link.svg "Link Icon"
