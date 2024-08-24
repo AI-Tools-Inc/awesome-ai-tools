@@ -5,6 +5,8 @@
 
 A curated list of awesome AI tools to help automate your workflows and 10x your output. Checkout [AI Tools](https://aitools.inc) for even more tools and recommendations.
 
+If you find this list helpful, please give us a Star!
+
 ## Contents
 
 - [AI Developer Tools](#ai-developer-tools)
@@ -135,6 +137,11 @@ A curated list of awesome AI tools to help automate your workflows and 10x your 
 - [UGCscripts](https://aitools.inc/tools/ugcscripts) - Craft compelling UGC scripts effortlessly [![link]](https://www.ugcscripts.com/)
 
 ## AI Sales Tools
+
+### AI Sales Assistants
+
+- [Tome](https://aitools.inc/tools/tome) - Close more deals [![link]](https://tome.app/)
+- [REP AI](https://aitools.inc/tools/rep-ai) - Transform window shoppers into loyal customers [![link]](https://www.hellorep.ai/)
 
 ### AI Prospecting & Cold Email Tools
 
