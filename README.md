@@ -7,7 +7,7 @@ A curated list of awesome AI tools to help automate your workflows and 10x your 
 
 ## Contents
 
-- []() - [![link]]()
+<!-- - []() - [![link]]() -->
 
 ## AI Coding Assistants
 
