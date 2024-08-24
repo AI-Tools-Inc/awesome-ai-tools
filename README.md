@@ -245,6 +245,7 @@ If you find this helpful, please give us a Star!
 - [Nova AI](https://aitools.inc/tools/nova-ai) - Transform raw footage into captivating content [![link]](https://wearenova.ai/)
 - [Clipchamp](https://aitools.inc/tools/clipchamp) - Transform your footage into captivating videos [![link]](https://clipchamp.com/)
 - [Vmaker AI](https://aitools.inc/tools/vmaker-ai) - Turn ordinary footage into captivating stories [![link]](https://www.vmaker.com/)
+- [HitPaw AI](https://aitools.inc/tools/hitpaw-ai) - Remove unwanted elements from your videos and images [![link]](https://www.hitpaw.com/)
 
 ### AI Video Clip & Short Form Video Generators
 
@@ -302,6 +303,13 @@ If you find this helpful, please give us a Star!
 
 - [Happy Scribe](https://aitools.inc/tools/happy-scribe) - Transcribe audio and add subtitles effortlessly [![link]](https://www.happyscribe.com/)
 - [Wordly](https://aitools.inc/tools/wordly) - Break language barriers at your events [![link]](https://www.wordly.ai/)
+
+### AI Voice Enhancers
+
+- [Adobe Podcast](https://aitools.inc/tools/adobe-podcast) - Make your podcast sound crisp and professional [![link]](https://podcast.adobe.com/)
+- [Krisp](https://aitools.inc/tools/krisp) - Transform chaotic calls into focused conversations [![link]](https://krisp.ai/)
+- [Resound](https://aitools.inc/tools/resound) - Transform raw recordings into polished podcasts [![link]](https://www.resound.fm/)
+- [Cleanvoice](https://aitools.inc/tools/cleanvoice) - Elevate your podcast's audio quality [![link]](https://cleanvoice.ai/)
 
 ## AI Legal Tools
 
