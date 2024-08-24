@@ -185,7 +185,7 @@ If you find this list helpful, please give us a Star!
 - [Artflow AI](https://aitools.inc/tools/artflow-ai) - Bring your imagined personas to life [![link]](https://app.artflow.ai/)
 - [Photo AI](https://aitools.inc/tools/photo-ai) - Transform your selfies into stunning photos [![link]](https://photoai.com/)
 
-### AI Headshot Tools
+### AI Profile Picture & Headshot Tools
 
 - [Profile Picture AI](https://aitools.inc/tools/profile-picture-ai) - Create stunning profile pictures in seconds [![link]](https://www.profilepicture.ai/)
 - [Headshot Pro](https://aitools.inc/tools/headshot-pro) - Professional headshots without the studio [![link]](https://www.headshotpro.com/)
@@ -205,6 +205,12 @@ If you find this list helpful, please give us a Star!
 - [Pebblely](https://aitools.inc/tools/pebblely) - Elevate your product imagery effortlessly [![link]](https://pebblely.com/)
 - [ProductAI](https://aitools.inc/tools/product-ai) - Transform ordinary photos into sales magnets [![link]](https://www.productai.photo/)
 - [Vmake AI](https://aitools.inc/tools/vmake-ai) - Elevate your product photos effortlessly [![link]](https://vmake.ai/)
+
+### AI Image Restoration Tools
+
+- [Palette.fm](https://aitools.inc/tools/palette-fm) - Transform black and white photos with lifelike hues [![link]](https://palette.fm)
+- [Deep Nostalgia](https://aitools.inc/tools/deep-nostalgia) - Breathe life into cherished family photos [![link]](https://www.myheritage.com/deep-nostalgia)
+- [Remini](https://aitools.inc/tools/remini) - Bring faded images back to life [![link]](https://remini.ai/)
 
 ## AI Legal Tools
 
