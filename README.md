@@ -9,17 +9,25 @@ A curated list of awesome AI tools to help automate your workflows and 10x your 
 
 - []() - [![link]]()
 
-## Coding Assistants
+## AI Coding Assistants
 
 - [GitHub Copilot](https://aitools.inc/tools/github-copilot) - Code smarter, build faster [![link]](https://github.com/features/copilot)
 - [Cursor](https://www.cursor.com/) - Supercharge your coding workflow [![link]](https://www.cursor.com/)
 - [tabnine](https://aitools.inc/tools/tabnine) - Supercharge your coding workflow [![link]](https://www.tabnine.com/)
 - [Codeium](https://aitools.inc/tools/codeium) - Elevate your code with intelligent testing [![link]](https://codeium.com/)
+- [Phind](https://aitools.inc/tools/phind) - From idea to code in record time [![link]](https://www.phind.com/search?home=true)
+- [Code Snippets AI](https://aitools.inc/tools/code-snippets-ai) - Revolutionize your coding workflow [![link]](https://codesnippets.ai/)
 
-## ReGex Tools
+## AI SQL Tools
+
+- [AI2sql](https://aitools.inc/tools/ai2sql) - [![link]](https://ai2sql.io/)
+- []() - [![link]]()
+- []() - [![link]]()
+
+## AI ReGex Tools
 
 - [AutoRegex](https://aitools.inc/tools/autoregex) - Convert plain language to precise RegEx code [![link]](https://www.autoregex.xyz/)
-- [CodePal.AI](https://aitools.inc/tools/codepal-ai) - [![link]](https://codepal.ai/)
+- [CodePal.AI](https://aitools.inc/tools/codepal-ai) - Quick snippets for any coding task [![link]](https://codepal.ai/)
 
 ## Summarizers
 
