@@ -20,7 +20,8 @@ A curated list of awesome AI tools to help automate your workflows and 10x your 
 
 ## AI SQL Tools
 
-- [AI2sql](https://aitools.inc/tools/ai2sql) - [![link]](https://ai2sql.io/)
+- [AI2sql](https://aitools.inc/tools/ai2sql) - Transform natural language into powerful SQL [![link]](https://ai2sql.io/)
+- [BlazeSQL](https://aitools.inc/tools/blazesql) - Turn questions into data insights effortlessly [![link]](https://www.blazesql.com/)
 - []() - [![link]]()
 - []() - [![link]]()
 
