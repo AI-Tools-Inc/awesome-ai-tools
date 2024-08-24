@@ -17,6 +17,7 @@ A curated list of awesome AI tools to help automate your workflows and 10x your 
 - [Codeium](https://aitools.inc/tools/codeium) - Elevate your code with intelligent testing [![link]](https://codeium.com/)
 - [Phind](https://aitools.inc/tools/phind) - From idea to code in record time [![link]](https://www.phind.com/search?home=true)
 - [Code Snippets AI](https://aitools.inc/tools/code-snippets-ai) - Revolutionize your coding workflow [![link]](https://codesnippets.ai/)
+- [Workik AI](https://aitools.inc/tools/workik-ai) - Code smarter with context-aware assistance [![link]](https://workik.com/)
 
 ### AI Code Review Tools
 
@@ -36,6 +37,13 @@ A curated list of awesome AI tools to help automate your workflows and 10x your 
 
 - [AutoRegex](https://aitools.inc/tools/autoregex) - Convert plain language to precise RegEx code [![link]](https://www.autoregex.xyz/)
 - [CodePal.AI](https://aitools.inc/tools/codepal-ai) - Quick snippets for any coding task [![link]](https://codepal.ai/)
+
+### AI Image To Code Tools
+
+- [Codejet](https://aitools.inc/tools/codejet) - Bridge the gap between design and development [![link]](https://www.codejet.ai/)
+- [Sketch2App](https://aitools.inc/tools/sketch2app) - Sketch your way to working software [![link]](https://sketch2app.io/)
+- [Fronty](https://aitools.inc/tools/fronty) - Transform mockups into live websites [![link]](https://fronty.com/)
+- [Codia AI](https://aitools.inc/tools/codia-ai) - Bridge the gap between design and development [![link]](https://codia.ai/)
 
 ## Summarizers
 
