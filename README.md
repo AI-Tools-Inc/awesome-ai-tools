@@ -298,6 +298,11 @@ If you find this helpful, please give us a Star!
 - [Sonix AI](https://aitools.inc/tools/sonix-ai) - Simple transcription with instant speech-to-text conversion [![link]](https://sonix.ai/)
 - [Turboscribe](https://aitools.inc/tools/turboscribe) - Turn your meetings, podcasts, and videos into text [![link]](https://turboscribe.ai/)
 
+### AI Audio Translators
+
+- [Happy Scribe](https://aitools.inc/tools/happy-scribe) - Transcribe audio and add subtitles effortlessly [![link]](https://www.happyscribe.com/)
+- [Wordly](https://aitools.inc/tools/wordly) - Break language barriers at your events [![link]](https://www.wordly.ai/)
+
 ## AI Legal Tools
 
 - [DoNotPay](https://aitools.inc/tools/do-not-pay) - Fight back against corporate giants [![link]](https://donotpay.com/)
