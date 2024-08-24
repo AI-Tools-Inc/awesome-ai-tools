@@ -90,6 +90,18 @@ A curated list of awesome AI tools to help automate your workflows and 10x your 
 - [Copy AI](https://aitools.inc/tools/copy-ai) - Supercharge your marketing copy [![link]](https://www.copy.ai/)
 - [Cohesive](https://aitools.inc/tools/cohesive) - Transform ideas into polished masterpieces [![link]](https://cohesive.so/)
 
+### AI Content Repurposing Tools
+
+- [Munch](https://aitools.inc/tools/munch) - Transform lengthy videos into viral clips [![link]](https://www.mcd3kdsrk.com/9HZJBK/2CTPL/)
+- [Castmagic](https://aitools.inc/tools/castmagic) - Transform your conversations into content gold [![link]](https://www.castmagic.io/)
+- [Vidyo AI](https://aitools.inc/tools/vidyo-ai) - Repurpose your content for social media success [![link]](https://vidyo.ai/)
+- [Flowjin](https://aitools.inc/tools/flowjin) - Repurpose long videos into captivating short clips [![link]](https://www.flowjin.com/)
+- [OpusClip](https://aitools.inc/tools/opusclip) - Repurpose your videos into social media gold [![link]](https://www.opus.pro/)
+- [Unifire AI](https://aitools.inc/tools/unifire-ai) - Transform one upload into endless formats [![link]](https://www.unifire.ai/)
+- [Vizard](https://aitools.inc/tools/vizard) - Transform lengthy content into captivating clips [![link]](https://vizard.ai/)
+- [Chopcast](https://aitools.inc/tools/chopcast) - Turn long videos into bite-sized social content [![link]](https://www.chopcast.io/)
+- [Wisecut AI](https://aitools.inc/tools/wisecut-ai) - Transform long videos into viral-worthy clips [![link]](https://www.wisecut.ai/)
+
 ### AI SEO Tools
 
 - [Machined](https://aitools.inc/tools/machined) - Elevate your SEO game with automated clusters [![link]](https://machined.ai/)
