@@ -232,6 +232,7 @@ If you find this helpful, please give us a Star!
 - [Wonder Studio](https://aitools.inc/tools/wonder-studio) - Bring CG characters to life effortlessly [![link]](https://wonderdynamics.com/)
 - [Vidnoz](https://aitools.inc/tools/vidnoz) - Turn text into professional videos [![link]](https://www.vidnoz.com)
 - [Deepshot AI](https://aitools.inc/tools/deepshot-ai) - Reimagine video editing possibilities [![link]](https://www.deepshot.ai/)
+- [HeyGen](https://aitools.inc/tools/heygen) - Scale your video content effortlessly [![link]](https://www.heygen.com/)
 
 ### AI Video Editors
 
@@ -278,11 +279,24 @@ If you find this helpful, please give us a Star!
 
 ## AI Audio Tools
 
-## AI Audio Transcribers
+### AI Text To Speech Tools
+
+- [ElevenLabs](https://aitools.inc/tools/elevenlabs) - Create lifelike AI voices in minutes [![link]](https://elevenlabs.io/)
+- [LOVO AI](https://aitools.inc/tools/lovo-ai) - Natural AI voices at your fingertips [![link]](https://lovo.ai/)
+- [Respeecher](https://aitools.inc/tools/respeecher) - AI-powered voice transformation [![link]](https://www.respeecher.com/)
+- [Speechify](https://aitools.inc/tools/speechify) - Listen to anything, anytime, anywhere [![link]](https://speechify.com/)
+- [WellSaid](https://aitools.inc/tools/wellsaid) - Create professional voiceovers with natural AI voices [![link]](https://wellsaidlabs.com/)
+- [Murf AI](https://aitools.inc/tools/murf-ai) - Instantly convert text into lifelike audio [![link]](https://murf.ai/)
+- [Audyo](https://aitools.inc/tools/audyo) - Transform text into captivating speech [![link]](https://www.audyo.ai/)
+
+### AI Audio Transcribers
 
 - [Happy Scribe](https://aitools.inc/tools/happy-scribe) - Transcribe audio and add subtitles effortlessly [![link]](https://www.happyscribe.com/)
 - [Castmagic](https://aitools.inc/tools/castmagic) - Transform your conversations into content gold [![link]](https://www.castmagic.io/)
 - [Shownotes](https://aitools.inc/tools/shownotes) - Convert spoken words into actionable insights [![link]](https://shownotes.io/)
+- [Speechwrite](https://aitools.inc/tools/speechwrite) - Increase your productivity with efficient dictation [![link]](https://www.speechwrite.com/)
+- [Sonix AI](https://aitools.inc/tools/sonix-ai) - Simple transcription with instant speech-to-text conversion [![link]](https://sonix.ai/)
+- [Turboscribe](https://aitools.inc/tools/turboscribe) - Turn your meetings, podcasts, and videos into text [![link]](https://turboscribe.ai/)
 
 ## AI Legal Tools
 
