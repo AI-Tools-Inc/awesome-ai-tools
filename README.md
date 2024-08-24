@@ -22,8 +22,8 @@ A curated list of awesome AI tools to help automate your workflows and 10x your 
 
 - [AI2sql](https://aitools.inc/tools/ai2sql) - Transform natural language into powerful SQL [![link]](https://ai2sql.io/)
 - [BlazeSQL](https://aitools.inc/tools/blazesql) - Turn questions into data insights effortlessly [![link]](https://www.blazesql.com/)
-- []() - [![link]]()
-- []() - [![link]]()
+- [SQLAI.AI](https://aitools.inc/tools/sqlai-ai) - Transform your SQL workflow [![link]](https://www.sqlai.ai/)
+- [AI Query](https://aitools.inc/tools/ai-query) - Turn your words into powerful SQL [![link]](https://aiquery.co/)
 
 ## AI ReGex Tools
 
