@@ -170,11 +170,31 @@ If you find this list helpful, please give us a Star!
 - [Dzine AI](https://aitools.inc/tools/dzine-ai) - Simple AI image editing [![link]](https://www.dzine.ai/)
 - [Adobe Photoshop](https://aitools.inc/tools/adobe-photoshop) - Turn your ideas into stunning visuals [![link]](https://www.adobe.com/products/photoshop.html)
 - [Playground AI](https://aitools.inc/tools/playground-ai) - Create and edit images like a pro [![link]](https://playground.com/)
+- [Pixlr](https://aitools.inc/tools/pixlr) - Create professional-grade images in minutes [![link]](https://pixlr.com/)
+- [Vance AI](https://aitools.inc/tools/vance-ai) - Remove backgrounds with precision and ease [![link]](https://vanceai.com/)
+
+### AI Photo Retouching Tools
+
+- [Picsart](https://aitools.inc/tools/picsart) - Supercharge your visual storytelling [![link]](https://picsart.com/)
+- [Cleanup.pictures](https://aitools.inc/tools/cleanup-pictures) - Erase unwanted elements from your photos [![link]](https://cleanup.pictures/)
+- [Remini](https://aitools.inc/tools/remini) - Bring faded images back to life [![link]](https://remini.ai/)
+- [BeautyPlus](https://aitools.inc/tools/beautyplus) - Transform your images with a tap [![link]](https://www.beautyplus.com/)
 
 ### AI Avatar Generators
 
 - [Artflow AI](https://aitools.inc/tools/artflow-ai) - Bring your imagined personas to life [![link]](https://app.artflow.ai/)
 - [Photo AI](https://aitools.inc/tools/photo-ai) - Transform your selfies into stunning photos [![link]](https://photoai.com/)
+
+### AI Headshot Tools
+
+- [Profile Picture AI](https://aitools.inc/tools/profile-picture-ai) - Create stunning profile pictures in seconds [![link]](https://www.profilepicture.ai/)
+- [Headshot Pro](https://aitools.inc/tools/headshot-pro) - Professional headshots without the studio [![link]](https://www.headshotpro.com/)
+- [ProPhotos](https://aitools.inc/tools/prophotos) - Transform selfies into career-boosting headshots [![link]](https://prophotos.ai/)
+
+### AI Image Face Swap Tools
+
+- [DeepSwap](https://aitools.inc/tools/deepswap) - Create face swaps in seconds [![link]](https://www.deepswap.ai)
+- [Pixlr](https://aitools.inc/tools/pixlr) - Create professional-grade images in minutes [![link]](https://pixlr.com/)
 
 ## AI Legal Tools
 
