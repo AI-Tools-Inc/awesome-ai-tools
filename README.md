@@ -88,9 +88,21 @@ A curated list of awesome AI tools to help automate your workflows and 10x your 
 - [Rytr](https://aitools.inc/tools/rytr) - Your AI writing companion [![link]](https://rytr.me)
 - [Writesonic](https://aitools.inc/tools/writesonic) - Craft compelling content that drives results [![link]](https://writesonic.com/)
 - [Copy AI](https://aitools.inc/tools/copy-ai) - Supercharge your marketing copy [![link]](https://www.copy.ai/)
+- [Cohesive](https://aitools.inc/tools/cohesive) - Transform ideas into polished masterpieces [![link]](https://cohesive.so/)
+
+### AI SEO Tools
+
+- [Machined](https://aitools.inc/tools/machined) - Elevate your SEO game with automated clusters [![link]](https://machined.ai/)
+- [BacklinkGPT](https://aitools.inc/tools/backlinkgpt) - Streamline your backlink acquisition process [![link]](https://www.backlinkgpt.com/)
+- [AISEO](https://aitools.inc/tools/aiseo) - Transform your ideas into engaging content [![link]](https://aiseo.ai/)
+- [Drafthorse AI](https://aitools.inc/tools/drafthorse-ai) - Your SEO content engine for rapid growth [![link]](https://www.drafthorseai.com/)
+- [RivalFlowAI](https://aitools.inc/tools/rivalflowai) - Transform existing content into ranking powerhouses [![link]](https://www.rivalflow.com/)
+- [Quattr](https://aitools.inc/tools/quattr) - Unlock your site's organic growth potential [![link]](https://www.quattr.com/)
+- [Writeseed](https://aitools.inc/tools/writeseed) - Transform your ideas into polished prose [![link]](https://writeseed.com/)
 
 ### AI Email Marketing Tools
 
 - [HoppyCopy](https://aitools.inc/tools/hoppycopy) - Craft compelling emails in record time [![link]](https://www.hoppycopy.co/)
+- [Neural Newsletters](https://aitools.inc/tools/neural-newsletters) - Craft captivating newsletters in minutes [![link]](https://neuralnewsletters.com/)
 
 [link]: https://raw.githubusercontent.com/AI-Tools-Inc/Awesome-AI-Tools/main/link.svg "Link Icon"
