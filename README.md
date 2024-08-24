@@ -1,7 +1,6 @@
-# Awesome AI Tools
+# Awesome AI Tools [![Awesome](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/jaywcjlove/awesome-ai-tools/)
 
-[![Awesome](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome)
-[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/jaywcjlove/awesome-ai-tools/)
+[<img src="https://raw.githubusercontent.com/AI-Tools-Inc/Awesome-AI-Tools/main/ai_tools_banner.png">](https://github.com/AI-Tools-Inc/awesome-ai-tools)
 
 A curated list of awesome AI tools to help automate your workflows and 10x your output. Checkout [AI Tools](https://aitools.inc) for even more tools and recommendations.
 
@@ -274,6 +273,14 @@ If you find this list helpful, please give us a Star!
 - [Animaker](https://aitools.inc/tools/animaker) - Transform your story into captivating animations [![link]](https://www.animaker.com/)
 - [Krikey AI](https://aitools.inc/tools/krikey-ai) - Bring your 3D ideas to life in minutes [![link]](https://www.krikey.ai/)
 - [GoEnhance AI](https://aitools.inc/tools/goenhance-ai) - Transform ordinary videos into extraordinary animations [![link]](https://www.goenhance.ai/)
+
+## AI Audio Tools
+
+## AI Audio Transcribers
+
+- [Happy Scribe](https://aitools.inc/tools/happy-scribe) - Transcribe audio and add subtitles effortlessly [![link]](https://www.happyscribe.com/)
+- [Castmagic](https://aitools.inc/tools/castmagic) - Transform your conversations into content gold [![link]](https://www.castmagic.io/)
+- [Shownotes](https://aitools.inc/tools/shownotes) - Convert spoken words into actionable insights [![link]](https://shownotes.io/)
 
 ## AI Legal Tools
 
