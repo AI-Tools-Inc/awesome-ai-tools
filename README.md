@@ -99,6 +99,12 @@ A curated list of awesome AI tools to help automate your workflows and 10x your 
 - [RivalFlowAI](https://aitools.inc/tools/rivalflowai) - Transform existing content into ranking powerhouses [![link]](https://www.rivalflow.com/)
 - [Quattr](https://aitools.inc/tools/quattr) - Unlock your site's organic growth potential [![link]](https://www.quattr.com/)
 - [Writeseed](https://aitools.inc/tools/writeseed) - Transform your ideas into polished prose [![link]](https://writeseed.com/)
+- [SEO AI](https://aitools.inc/tools/seo-ai) - Unlock top search positions for your website [![link]](https://seo.ai/)
+
+### AI Landing Page Generators
+
+- [Sitekick AI](https://aitools.inc/tools/sitekick-ai) - Create stunning landing pages in minutes [![link]](https://www.sitekick.ai/)
+- [MakeLanding AI](https://aitools.inc/tools/makelanding-ai) - Create high-quality landing pages in seconds [![link]](https://makelanding.ai)
 
 ### AI Email Marketing Tools
 
