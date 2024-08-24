@@ -7,13 +7,19 @@ A curated list of awesome AI tools to help automate your workflows and 10x your 
 
 ## Contents
 
-## Developer Tools
+- []() - [![link]]()
+
+## Coding Assistants
 
 - [GitHub Copilot](https://aitools.inc/tools/github-copilot) - Code smarter, build faster [![link]](https://github.com/features/copilot)
-- [Cursor](https://www.cursor.com/) - [![link]](https://www.cursor.com/)
-- [tabnine](https://aitools.inc/tools/tabnine) - [![link]](https://www.tabnine.com/)
-- [CodeWiz](https://aitools.inc/tools/codewiz) - Turn coding challenges into victories
-- [Codeium](https://aitools.inc/tools/codeium) - Supercharge your coding workflow
+- [Cursor](https://www.cursor.com/) - Supercharge your coding workflow [![link]](https://www.cursor.com/)
+- [tabnine](https://aitools.inc/tools/tabnine) - Supercharge your coding workflow [![link]](https://www.tabnine.com/)
+- [Codeium](https://aitools.inc/tools/codeium) - Elevate your code with intelligent testing [![link]](https://codeium.com/)
+
+## ReGex Tools
+
+- [AutoRegex](https://aitools.inc/tools/autoregex) - Convert plain language to precise RegEx code [![link]](https://www.autoregex.xyz/)
+- [CodePal.AI](https://aitools.inc/tools/codepal-ai) - [![link]](https://codepal.ai/)
 
 ## Summarizers
 
