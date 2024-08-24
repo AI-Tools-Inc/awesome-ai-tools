@@ -137,4 +137,17 @@ A curated list of awesome AI tools to help automate your workflows and 10x your 
 - [Uplifted AI](https://aitools.inc/tools/uplifted-ai) - Transform customers into your best marketers [![link]](https://www.uplifted.ai/)
 - [UGCscripts](https://aitools.inc/tools/ugcscripts) - Craft compelling UGC scripts effortlessly [![link]](https://www.ugcscripts.com/)
 
+## AI Sales Tools
+
+### AI Prospecting & Cold Email Tools
+
+- [Clay](https://aitools.inc/tools/clay) - Unlock your sales potential with data-driven outreach [![link]](https://www.clay.com/)
+- [Woodpecker](https://aitools.inc/tools/woodpecker) - Cold emails made easy [![link]](https://woodpecker.co/pp/aitools/home)
+- [Snov.io](https://aitools.inc/tools/snov-io) - Automate your sales process and connect with more leads [![link]](https://snov.io/)
+- [Smartwriter](https://aitools.inc/tools/smartwriter) - Automate personalized emails in seconds [![link]](https://www.smartwriter.ai/)
+- [Quicklines](https://aitools.inc/tools/quicklines) - Boost your email response rate [![link]](https://www.quicklines.ai/)
+- [Instantly](https://aitools.inc/tools/instantly) - Turn leads into clients with unlimited email outreach [![link]](https://instantly.ai/)
+- [Nureply](https://aitools.inc/tools/nureply) - Effortlessly send personalized emails [![link]](https://nureply.com/)
+- [Leadzen AI](https://aitools.inc/tools/leadzen-ai) - Accelerate your sales pipeline with precision [![link]](https://leadzen.ai/)
+
 [link]: https://raw.githubusercontent.com/AI-Tools-Inc/Awesome-AI-Tools/main/link.svg "Link Icon"
