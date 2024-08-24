@@ -45,6 +45,16 @@ A curated list of awesome AI tools to help automate your workflows and 10x your 
 - [Fronty](https://aitools.inc/tools/fronty) - Transform mockups into live websites [![link]](https://fronty.com/)
 - [Codia AI](https://aitools.inc/tools/codia-ai) - Bridge the gap between design and development [![link]](https://codia.ai/)
 
+### AI Website Builders
+
+- [Builder.io](https://aitools.inc/tools/builder-io) - Transform your designs into responsive code [![link]](https://www.builder.io/)
+- [Zipwp](https://aitools.inc/tools/zipwp) - Create stunning websites in minutes [![link]](https://zipwp.com/)
+- [Teleporthq](https://aitools.inc/tools/teleporthq) - Design and deploy stunning websites effortlessly [![link]](https://teleporthq.io/)
+- [CodeDesign.ai](https://aitools.inc/tools/code-design-ai) - Design stunning websites in seconds [![link]](https://codedesign.ai/)
+- [10web](https://aitools.inc/tools/10web) - Transform your ideas into high-performance websites [![link]](https://10web.io/)
+- [Bubble](https://aitools.inc/tools/bubble) - Build powerful web apps visually [![link]](https://bubble.io/)
+- [Dorik](https://aitools.inc/tools/dorik) - Transform ideas into professional websites [![link]](https://dorik.com/)
+
 ## Summarizers
 
 ## Writing Tools
