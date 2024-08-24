@@ -1,4 +1,6 @@
-# Awesome AI Tools [![Awesome](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/jaywcjlove/awesome-ai-tools/)
+# Awesome AI Tools [![Awesome](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome)
+
+<!-- [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/jaywcjlove/awesome-ai-tools/) -->
 
 [<img src="https://raw.githubusercontent.com/AI-Tools-Inc/Awesome-AI-Tools/main/ai_tools_banner.png">](https://github.com/AI-Tools-Inc/awesome-ai-tools)
 
