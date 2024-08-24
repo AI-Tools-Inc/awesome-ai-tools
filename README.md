@@ -242,6 +242,7 @@ If you find this list helpful, please give us a Star!
 - [FlexClip](https://aitools.inc/tools/flexclip) - Elevate your content with effortless video editing [![link]](https://www.flexclip.com/)
 - [Nova AI](https://aitools.inc/tools/nova-ai) - Transform raw footage into captivating content [![link]](https://wearenova.ai/)
 - [Clipchamp](https://aitools.inc/tools/clipchamp) - Transform your footage into captivating videos [![link]](https://clipchamp.com/)
+- [Vmaker AI](https://aitools.inc/tools/vmaker-ai) - Turn ordinary footage into captivating stories [![link]](https://www.vmaker.com/)
 
 ### AI Video Clip & Short Form Video Generators
 
