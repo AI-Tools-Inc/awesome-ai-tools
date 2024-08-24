@@ -7,6 +7,28 @@ A curated list of awesome AI tools to help automate your workflows and 10x your 
 
 ## Contents
 
+- [AI Developer Tools](#ai-developer-tools)
+  - [AI Coding Assistants](#ai-coding-assistants)
+  - [AI Code Review Tools](#ai-code-review-tools)
+  - [AI SQL Tools](#ai-sql-tools)
+  - [AI ReGex Tools](#ai-regex-tools)
+  - [AI Image To Code Tools](#ai-image-to-code-tools)
+  - [AI Website Builders](#ai-website-builders)
+- [Summarizers](#summarizers)
+- [Writing Tools](#writing-tools)
+- [Design Tools](#design-tools)
+- [Image Tools](#image-tools)
+- [Audio Tools](#audio-tools)
+- [Video Tools](#video-tools)
+- [Note Takers](#note-takers)
+- [Art Tools](#art-tools)
+- [Education Tools](#education-tools)
+- [Productivity Tools](#productivity-tools)
+- [Personal Assistants](#personal-assistants)
+- [Knowledge Management Tools](#knowledge-management-tools)
+- [Web Scraping Tools](#web-scraping-tools)
+- [Prompting Tools](#prompting-tools)
+
 ## AI Developer Tools
 
 ### AI Coding Assistants
