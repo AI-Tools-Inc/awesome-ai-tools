@@ -77,32 +77,20 @@ A curated list of awesome AI tools to help automate your workflows and 10x your 
 - [Bubble](https://aitools.inc/tools/bubble) - Build powerful web apps visually [![link]](https://bubble.io/)
 - [Dorik](https://aitools.inc/tools/dorik) - Transform ideas into professional websites [![link]](https://dorik.com/)
 
-## Summarizers
+## AI Marketing Tools
 
-## Writing Tools
+### AI Copywriting Tools
 
-## Design Tools
+- [Japser](https://aitools.inc/tools/jasper-ai) - Craft compelling content at lightning speed [![link]](https://www.jasper.ai/)
+- [Quillbot](https://aitools.inc/tools/quillbot) - Write better, faster, and clearer [![link]](https://quillbot.com/)
+- [Anyword](https://aitools.inc/tools/anyword) - Create high-converting copy at scale [![link]](https://anyword.com/)
+- [Sudowrite](https://aitools.inc/tools/sudowrite) - Your AI writing partner [![link]](https://www.sudowrite.com)
+- [Rytr](https://aitools.inc/tools/rytr) - Your AI writing companion [![link]](https://rytr.me)
+- [Writesonic](https://aitools.inc/tools/writesonic) - Craft compelling content that drives results [![link]](https://writesonic.com/)
+- [Copy AI](https://aitools.inc/tools/copy-ai) - Supercharge your marketing copy [![link]](https://www.copy.ai/)
 
-## Image Tools
+### AI Email Marketing Tools
 
-## Audio Tools
-
-## Video Tools
-
-## Note Takers
-
-## Art Tools
-
-## Education Tools
-
-## Productivity Tools
-
-## Personal Assistants
-
-## Knowledge Management Tools
-
-## Web Scraping Tools
-
-## Prompting Tools
+- [HoppyCopy](https://aitools.inc/tools/hoppycopy) - Craft compelling emails in record time [![link]](https://www.hoppycopy.co/)
 
 [link]: https://raw.githubusercontent.com/AI-Tools-Inc/Awesome-AI-Tools/main/link.svg "Link Icon"
