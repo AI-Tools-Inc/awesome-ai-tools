@@ -355,6 +355,7 @@ If you find this helpful, please give us a Star!
 - [Boomy](https://aitools.inc/tools/boomy) - Create, stream, and earn from original songs [![link]](https://boomy.com/)
 - [Jammable](https://aitools.inc/tools/jammable) - Train custom voices and create musical duets [![link]](https://www.jammable.com/)
 - [Uppbeat](https://aitools.inc/tools/uppbeat) - Elevate your videos with hassle-free music [![link]](https://uppbeat.io/)
+- [Soundraw](https://aitools.inc/tools/soundraw) - Generate royalty-free music [![link]](https://soundraw.io/)
 
 ## AI Legal Tools
 
