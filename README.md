@@ -374,4 +374,4 @@ If you find this helpful, please give us a Star!
 - [vLex](https://aitools.inc/tools/vlex) - AI-powered platform for legal research [![link]](https://vlex.com/)
 - [AI Lawyer](https://aitools.inc/tools/ai-lawyer-pro) - Effortlessly automate legal tasks [![link]](https://ailawyer.pro/)
 
-[link]: https://raw.githubusercontent.com/AI-Tools-Inc/Awesome-AI-Tools/main/link.svg "Link Icon"
+[link]: https://raw.githubusercontent.com/AI-Tools-Inc/Awesome-AI-Tools/main/link_icon.svg "Link Icon"
