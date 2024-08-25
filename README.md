@@ -27,7 +27,33 @@ If you find this helpful, please give us a Star!
   - [AI Influencer Generators](#ai-influencer-generators)
   - [AI UGC Tools](#ai-ugc-tools)
 - [AI Sales Tools](#ai-sales-tools)
+  - [AI Sales Assistants](#ai-sales-assistants)
   - [AI Prospecting & Cold Email Tools](#ai-prospecting---cold-email-tools)
+- [AI Image Tools](#ai-image-tools)
+  - [AI Image Generators](#ai-image-generators)
+  - [AI Image Editors](#ai-image-editors)
+  - [AI Photo Retouching Tools](#ai-photo-retouching-tools)
+  - [AI Avatar Generators](#ai-avatar-generators)
+  - [AI Profile Picture & Headshot Tools](#ai-profile-picture---headshot-tools)
+  - [AI Image Face Swap Tools](#ai-image-face-swap-tools)
+  - [AI Product Photo Tools](#ai-product-photo-tools)
+  - [AI Image Restoration Tools](#ai-image-restoration-tools)
+  - [AI Thumbnail Makers](#ai-thumbnail-makers)
+- [AI Video Tools](#ai-video-tools)
+  - [AI Video Generators](#ai-video-generators)
+  - [AI Video Editors](#ai-video-editors)
+  - [AI Video Clip & Short Form Video Generators](#ai-video-clip---short-form-video-generators)
+  - [AI Dubbing Tools](#ai-dubbing-tools)
+  - [AI Subtitles & Captions Generators](#ai-subtitles---captions-generators)
+  - [AI Talking Avatar Tools](#ai-talking-avatar-tools)
+  - [AI Animation Tools](#ai-animation-tools)
+- [AI Audio Tools](#ai-audio-tools)
+  - [AI Text To Speech Tools](#ai-text-to-speech-tools)
+  - [AI Audio Transcribers](#ai-audio-transcribers)
+  - [AI Audio Translators](#ai-audio-translators)
+  - [AI Voice Enhancers](#ai-voice-enhancers)
+  - [AI Music & Song Generators](#ai-music---song-generators)
+- [AI Legal Tools](#ai-legal-tools)
 
 ## AI Developer Tools
 
@@ -328,6 +354,7 @@ If you find this helpful, please give us a Star!
 - [Riffusion](https://aitools.inc/tools/riffusion) - Compose unique songs from simple prompts [![link]](https://www.riffusion.com/)
 - [Boomy](https://aitools.inc/tools/boomy) - Create, stream, and earn from original songs [![link]](https://boomy.com/)
 - [Jammable](https://aitools.inc/tools/jammable) - Train custom voices and create musical duets [![link]](https://www.jammable.com/)
+- [Uppbeat](https://aitools.inc/tools/uppbeat) - Elevate your videos with hassle-free music [![link]](https://uppbeat.io/)
 
 ## AI Legal Tools
 
