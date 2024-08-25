@@ -53,6 +53,7 @@ If you find this helpful, please give us a Star!
   - [AI Audio Translators](#ai-audio-translators)
   - [AI Voice Enhancers](#ai-voice-enhancers)
   - [AI Music & Song Generators](#ai-music---song-generators)
+  - [AI Voice Changers & Voice Cloners](#ai-voice-changers---voice-cloners)
 - [AI Legal Tools](#ai-legal-tools)
 
 ## AI Developer Tools
@@ -356,6 +357,14 @@ If you find this helpful, please give us a Star!
 - [Jammable](https://aitools.inc/tools/jammable) - Train custom voices and create musical duets [![link]](https://www.jammable.com/)
 - [Uppbeat](https://aitools.inc/tools/uppbeat) - Elevate your videos with hassle-free music [![link]](https://uppbeat.io/)
 - [Soundraw](https://aitools.inc/tools/soundraw) - Generate royalty-free music [![link]](https://soundraw.io/)
+
+### AI Voice Changers & Voice Cloners
+
+- [Altered](https://aitools.inc/tools/altered-ai) - Transform your voice using AI [![link]](https://www.altered.ai/)
+- [FineShare](https://aitools.inc/tools/fineshare) - Craft personalized voiceovers effortlessly [![link]](https://www.fineshare.com/)
+- [ElevenLabs](https://aitools.inc/tools/elevenlabs) - Create lifelike AI voices in minutes [![link]](https://elevenlabs.io/)
+- [Respeecher](https://aitools.inc/tools/respeecher) - AI-powered voice transformation [![link]](https://www.respeecher.com/)
+- [Uberduck](https://aitools.inc/tools/uberduck) - Turn your text into captivating audio [![link]](https://www.uberduck.ai/)
 
 ## AI Legal Tools
 
