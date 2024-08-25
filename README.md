@@ -260,6 +260,12 @@ If you find this helpful, please give us a Star!
 - [OpusClip](https://aitools.inc/tools/opusclip) - Repurpose your videos into social media gold [![link]](https://www.opus.pro/)
 - [Submagic](https://aitools.inc/tools/submagic) - Unleash your content's viral potential [![link]](https://www.submagic.co/)
 
+### AI Dubbing Tools
+
+- [BlipCut](https://aitools.inc/tools/blipcut) - Break language barriers in your videos [![link]](https://videotranslator.blipcut.com/)
+- [DupDub](https://aitools.inc/tools/dupdub) - Transform your ideas into professional-quality media [![link]](https://www.dupdub.com/)
+- [Rask AI](https://aitools.inc/tools/rask-ai) - Amplify your message across cultures [![link]](https://www.rask.ai/)
+
 ### AI Subtitles & Captions Generators
 
 - [Captions](https://aitools.inc/tools/captions) - Elevate your video content effortlessly [![link]](https://www.captions.ai/)
@@ -303,6 +309,7 @@ If you find this helpful, please give us a Star!
 
 - [Happy Scribe](https://aitools.inc/tools/happy-scribe) - Transcribe audio and add subtitles effortlessly [![link]](https://www.happyscribe.com/)
 - [Wordly](https://aitools.inc/tools/wordly) - Break language barriers at your events [![link]](https://www.wordly.ai/)
+- [Wavel AI](https://aitools.inc/tools/wavel-ai) - Break language barriers in your videos [![link]](https://wavel.ai/)
 
 ### AI Voice Enhancers
 
