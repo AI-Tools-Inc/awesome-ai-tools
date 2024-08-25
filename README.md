@@ -318,6 +318,17 @@ If you find this helpful, please give us a Star!
 - [Resound](https://aitools.inc/tools/resound) - Transform raw recordings into polished podcasts [![link]](https://www.resound.fm/)
 - [Cleanvoice](https://aitools.inc/tools/cleanvoice) - Elevate your podcast's audio quality [![link]](https://cleanvoice.ai/)
 
+### AI Music & Song Generators
+
+- [Suno](https://aitools.inc/tools/suno) - Turn your ideas into songs [![link]](https://suno.com/)
+- [Music AI](https://aitools.inc/tools/music-ai) - Unlock your music's potential with AI [![link]](https://music.ai/)
+- [Udio](https://aitools.inc/tools/udio) - Transform text into your own music [![link]](https://www.udio.com/)
+- [Beatoven](https://aitools.inc/tools/beatoven) - Craft music that fits your story [![link]](https://www.beatoven.ai/)
+- [Loudly AI](https://aitools.inc/tools/loudly-ai) - AI music creation at your fingertips [![link]](https://www.loudly.com/)
+- [Riffusion](https://aitools.inc/tools/riffusion) - Compose unique songs from simple prompts [![link]](https://www.riffusion.com/)
+- [Boomy](https://aitools.inc/tools/boomy) - Create, stream, and earn from original songs [![link]](https://boomy.com/)
+- [Jammable](https://aitools.inc/tools/jammable) - Train custom voices and create musical duets [![link]](https://www.jammable.com/)
+
 ## AI Legal Tools
 
 - [DoNotPay](https://aitools.inc/tools/do-not-pay) - Fight back against corporate giants [![link]](https://donotpay.com/)
