@@ -297,6 +297,7 @@ If you find this helpful, please give us a Star!
 
 - [Captions](https://aitools.inc/tools/captions) - Elevate your video content effortlessly [![link]](https://www.captions.ai/)
 - [Simon Says AI](https://aitools.inc/tools/simon-says-ai) - Transcribe and translate in record time [![link]](https://www.simonsaysai.com/)
+- [UniFab Subtitle Generator AI](https://unifab.ai/ai-subtitle-generator.htm) - Generate and translate subtitles into 30+ languages [![link]](https://unifab.ai/)
 
 ### AI Talking Avatar Tools
 
@@ -310,6 +311,7 @@ If you find this helpful, please give us a Star!
 - [Animaker](https://aitools.inc/tools/animaker) - Transform your story into captivating animations [![link]](https://www.animaker.com/)
 - [Krikey AI](https://aitools.inc/tools/krikey-ai) - Bring your 3D ideas to life in minutes [![link]](https://www.krikey.ai/)
 - [GoEnhance AI](https://aitools.inc/tools/goenhance-ai) - Transform ordinary videos into extraordinary animations [![link]](https://www.goenhance.ai/)
+- [UniFab Video Enhancer AI](https://unifab.ai/ai-video-enhancer.htm) - Upgrade low-res animations to 4K, 8K, or 16K with Animation Model [![link]](https://unifab.ai/)
 
 ## AI Audio Tools
 
@@ -344,6 +346,7 @@ If you find this helpful, please give us a Star!
 - [Krisp](https://aitools.inc/tools/krisp) - Transform chaotic calls into focused conversations [![link]](https://krisp.ai/)
 - [Resound](https://aitools.inc/tools/resound) - Transform raw recordings into polished podcasts [![link]](https://www.resound.fm/)
 - [Cleanvoice](https://aitools.inc/tools/cleanvoice) - Elevate your podcast's audio quality [![link]](https://cleanvoice.ai/)
+- [UniFab Audio Upmix AI](https://unifab.ai/audio-upmix-ai.htm) - Easily convert stereo to EAC3 5.1 or DTS 7.1 surround sound [![link]](https://unifab.ai/)
 
 ### AI Music & Song Generators
 
