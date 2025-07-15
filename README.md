@@ -141,6 +141,8 @@ If you find this helpful, please give us a Star!
 - [Quattr](https://aitools.inc/tools/quattr) - Unlock your site's organic growth potential [![link]](https://www.quattr.com/)
 - [Writeseed](https://aitools.inc/tools/writeseed) - Transform your ideas into polished prose [![link]](https://writeseed.com/)
 - [SEO AI](https://aitools.inc/tools/seo-ai) - Unlock top search positions for your website [![link]](https://seo.ai/)
+- [Serplux](https://serplux.com/premium/agent/advanced-seo-strategy-generator) - mprove your online reach with our AI-powered SEO Strategy Generator, providing effective plans for steady, organic traffic growth. [![link]](https://serplux.com/)
+- 
 
 ### AI Landing Page Generators
 
