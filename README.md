@@ -57,6 +57,7 @@ If you find this helpful, please give us a Star!
 - [AI Legal Tools](#ai-legal-tools)
 
 ## AI Developer Tools
+- [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 
 ### AI Coding Assistants
 
