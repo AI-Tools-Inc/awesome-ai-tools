@@ -74,6 +74,7 @@ If you find this helpful, please give us a Star!
 - [Sourcery](https://aitools.inc/tools/sourcery) - Supercharge your code reviews [![link]](https://sourcery.ai/)
 - [Bito AI](https://aitools.inc/tools/bito-ai) - Supercharge your coding productivity [![link]](https://bito.ai/)
 - [Metabob](https://aitools.inc/tools/metabob) - Uncover hidden errors in your codebase [![link]](https://metabob.com/)
+- [Gito](https://github.com/Nayjest/Gito) - AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear [![link]](https://github.com/Nayjest/Gito)
 
 ### AI SQL Tools
 
