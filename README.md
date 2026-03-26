@@ -253,6 +253,7 @@ If you find this helpful, please give us a Star!
 ### AI Video Generators
 
 - [Runway](https://aitools.inc/tools/runway) - Unleash impossible video creations [![link]](https://runwayml.com/)
+- [PVID](https://pvid.app/) - Free AI video generator aggregating Kling 3.0, Sora 2, Veo 3.1 with image-to-video, text-to-video, video-to-video support and 100 free credits [![link]](https://pvid.app/)
 - [invideo AI](https://aitools.inc/tools/invideo-ai) - Create publish-ready videos with text prompts [![link]](https://invideo.io/ai/)
 - [Fliki](https://aitools.inc/tools/fliki) - Turn your text into captivating videos [![link]](https://fliki.ai/)
 - [Genmo AI](https://aitools.inc/tools/genmo-ai) - Bring your stories to life through video [![link]](https://www.genmo.ai/)
