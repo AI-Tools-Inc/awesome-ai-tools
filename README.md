@@ -104,6 +104,10 @@ If you find this helpful, please give us a Star!
 - [Bubble](https://aitools.inc/tools/bubble) - Build powerful web apps visually [![link]](https://bubble.io/)
 - [Dorik](https://aitools.inc/tools/dorik) - Transform ideas into professional websites [![link]](https://dorik.com/)
 
+### AI Localization Tools
+
+- [LocalePack](https://localepack.app/) - Translate browser extension strings, Next.js locale files, i18next namespaces, and vue-i18n JSON/YAML into 52 languages [![link]](https://localepack.app/)
+
 ## AI Marketing Tools
 
 ### AI Copywriting Tools
