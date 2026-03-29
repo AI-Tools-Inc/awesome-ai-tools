@@ -354,6 +354,7 @@ If you find this helpful, please give us a Star!
 - [Loudly AI](https://aitools.inc/tools/loudly-ai) - AI music creation at your fingertips [![link]](https://www.loudly.com/)
 - [Riffusion](https://aitools.inc/tools/riffusion) - Compose unique songs from simple prompts [![link]](https://www.riffusion.com/)
 - [Boomy](https://aitools.inc/tools/boomy) - Create, stream, and earn from original songs [![link]](https://boomy.com/)
+- [voicetoinstrument.com](https://voicetoinstrument.com) - Convert voice to instrumental tracks using AI
 - [Jammable](https://aitools.inc/tools/jammable) - Train custom voices and create musical duets [![link]](https://www.jammable.com/)
 - [Uppbeat](https://aitools.inc/tools/uppbeat) - Elevate your videos with hassle-free music [![link]](https://uppbeat.io/)
 - [Soundraw](https://aitools.inc/tools/soundraw) - Generate royalty-free music [![link]](https://soundraw.io/)
