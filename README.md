@@ -130,6 +130,7 @@ If you find this helpful, please give us a Star!
 - [Wisecut AI](https://aitools.inc/tools/wisecut-ai) - Transform long videos into viral-worthy clips [![link]](https://www.wisecut.ai/)
 - [Flickify](https://aitools.inc/tools/flickify) - Effortlessly turn articles into engaging videos [![link]](https://www.flickify.com/)
 - [Powder](https://aitools.inc/tools/powder) - Turn long streams into viral-ready clips [![link]](https://powder.gg/)
+- [ClipSpeedAI](https://clipspeed.ai) - AI-powered video clipping that automatically finds highlight moments from long-form videos for streamers and creators
 
 ### AI SEO Tools
 
@@ -280,6 +281,7 @@ If you find this helpful, please give us a Star!
 - [ShortMake](https://aitools.inc/tools/shortmake) - Turn simple ideas into engaging short-form videos [![link]](https://app.shortmake.com/)
 - [Vsub](https://aitools.inc/tools/vsub) - Streamline your faceless channel creation [![link]](https://vsub.io/)
 - [Powder](https://aitools.inc/tools/powder) - Turn long streams into viral-ready clips [![link]](https://powder.gg/)
+- [ClipSpeedAI](https://clipspeed.ai) - AI-powered video clipping that automatically finds highlight moments from long-form videos for streamers and creators
 - [Flowjin](https://aitools.inc/tools/flowjin) - Repurpose long videos into captivating short clips [![link]](https://www.flowjin.com/)
 - [Vizard](https://aitools.inc/tools/vizard) - Transform lengthy content into captivating clips [![link]](https://vizard.ai/)
 - [Chopcast](https://aitools.inc/tools/chopcast) - Turn long videos into bite-sized social content [![link]](https://www.chopcast.io/)
