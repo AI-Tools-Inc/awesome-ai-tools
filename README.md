@@ -208,6 +208,7 @@ If you find this helpful, please give us a Star!
 - [Picsart](https://aitools.inc/tools/picsart) - Supercharge your visual storytelling [![link]](https://picsart.com/)
 - [Cleanup.pictures](https://aitools.inc/tools/cleanup-pictures) - Erase unwanted elements from your photos [![link]](https://cleanup.pictures/)
 - [Remini](https://aitools.inc/tools/remini) - Bring faded images back to life [![link]](https://remini.ai/)
+- [ArtImageHub](https://artimagehub.com/old-photo-restoration) - Restore old, faded, and damaged family photos using AI (CodeFormer + GFPGAN) — fixes scratches, blurry faces, and fading [![link]](https://artimagehub.com/old-photo-restoration)
 - [BeautyPlus](https://aitools.inc/tools/beautyplus) - Transform your images with a tap [![link]](https://www.beautyplus.com/)
 
 ### AI Avatar Generators
@@ -241,6 +242,7 @@ If you find this helpful, please give us a Star!
 - [Palette.fm](https://aitools.inc/tools/palette-fm) - Transform black and white photos with lifelike hues [![link]](https://palette.fm)
 - [Deep Nostalgia](https://aitools.inc/tools/deep-nostalgia) - Breathe life into cherished family photos [![link]](https://www.myheritage.com/deep-nostalgia)
 - [Remini](https://aitools.inc/tools/remini) - Bring faded images back to life [![link]](https://remini.ai/)
+- [ArtImageHub](https://artimagehub.com/old-photo-restoration) - Restore old, faded, and damaged family photos using AI (CodeFormer + GFPGAN) — fixes scratches, blurry faces, and fading [![link]](https://artimagehub.com/old-photo-restoration)
 
 ### AI Thumbnail Makers
 
