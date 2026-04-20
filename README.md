@@ -62,6 +62,7 @@ If you find this helpful, please give us a Star!
 
 - [GitHub Copilot](https://aitools.inc/tools/github-copilot) - Code smarter, build faster [![link]](https://github.com/features/copilot)
 - [Cursor](https://www.cursor.com/) - Supercharge your coding workflow [![link]](https://www.cursor.com/)
+- [OpenMagic](https://github.com/Kalmuraee/OpenMagic) - Browser-side AI coding toolbar for live web app edits with context capture and approved diffs. [![link]](https://github.com/Kalmuraee/OpenMagic)
 - [tabnine](https://aitools.inc/tools/tabnine) - Supercharge your coding workflow [![link]](https://www.tabnine.com/)
 - [Codeium](https://aitools.inc/tools/codeium) - Elevate your code with intelligent testing [![link]](https://codeium.com/)
 - [Phind](https://aitools.inc/tools/phind) - From idea to code in record time [![link]](https://www.phind.com/search?home=true)
