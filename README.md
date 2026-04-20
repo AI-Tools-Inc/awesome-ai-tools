@@ -11,6 +11,7 @@ If you find this helpful, please give us a Star!
 ## Contents
 
 - [AI Developer Tools](#ai-developer-tools)
+- **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)** - AI-powered coding toolbar for any web app. Captures element context, previews diffs, and applies approved changes through a reverse proxy.
   - [AI Coding Assistants](#ai-coding-assistants)
   - [AI Code Review Tools](#ai-code-review-tools)
   - [AI SQL Tools](#ai-sql-tools)
