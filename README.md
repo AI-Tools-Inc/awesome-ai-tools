@@ -115,7 +115,7 @@ If you find this helpful, please give us a Star!
 - [Rytr](https://aitools.inc/tools/rytr) - Your AI writing companion [![link]](https://rytr.me)
 - [Writesonic](https://aitools.inc/tools/writesonic) - Craft compelling content that drives results [![link]](https://writesonic.com/)
 - [Copy AI](https://aitools.inc/tools/copy-ai) - Supercharge your marketing copy [![link]](https://www.copy.ai/)
-- [Cohesive](https://aitools.inc/tools/cohesive) - Transform ideas into polished masterpieces [![link]](https://cohesive.so/)
+- [MindMap AI](https://aitools.inc/tools/mindmap-ai) - AI-powered tool to turn text, documents, and multimedia into structured mind maps for idea generation and productivity [![link]](https://mindmapai.app/text-summarizer)
 
 ### AI Content Repurposing Tools
 
