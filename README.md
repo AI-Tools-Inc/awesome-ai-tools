@@ -347,6 +347,7 @@ If you find this helpful, please give us a Star!
 
 ### AI Music & Song Generators
 
+- [Suede](https://suedeai.ai) - AI music and video generation with automatic on-chain ownership — create a track, own it instantly, earn from it automatically [![link]](https://suedeai.ai)
 - [Suno](https://aitools.inc/tools/suno) - Turn your ideas into songs [![link]](https://suno.com/)
 - [Music AI](https://aitools.inc/tools/music-ai) - Unlock your music's potential with AI [![link]](https://music.ai/)
 - [Udio](https://aitools.inc/tools/udio) - Transform text into your own music [![link]](https://www.udio.com/)
