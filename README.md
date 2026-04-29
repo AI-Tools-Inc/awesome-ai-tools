@@ -235,6 +235,7 @@ If you find this helpful, please give us a Star!
 - [Pebblely](https://aitools.inc/tools/pebblely) - Elevate your product imagery effortlessly [![link]](https://pebblely.com/)
 - [ProductAI](https://aitools.inc/tools/product-ai) - Transform ordinary photos into sales magnets [![link]](https://www.productai.photo/)
 - [Vmake AI](https://aitools.inc/tools/vmake-ai) - Elevate your product photos effortlessly [![link]](https://vmake.ai/)
+- [igly.ai](https://igly.ai) - AI image editing with background removal, inpainting, upscaling & generative fill [![link]](https://igly.ai/)
 
 ### AI Image Restoration Tools
 
