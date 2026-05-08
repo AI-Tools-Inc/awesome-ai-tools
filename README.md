@@ -81,6 +81,7 @@ If you find this helpful, please give us a Star!
 - [BlazeSQL](https://aitools.inc/tools/blazesql) - Turn questions into data insights effortlessly [![link]](https://www.blazesql.com/)
 - [SQLAI.AI](https://aitools.inc/tools/sqlai-ai) - Transform your SQL workflow [![link]](https://www.sqlai.ai/)
 - [AI Query](https://aitools.inc/tools/ai-query) - Turn your words into powerful SQL [![link]](https://aiquery.co/)
+- [AI for Database](https://aitools.inc/tools/ai-for-database) - Talk to your database in plain English, no SQL needed [![link]](https://aifordatabase.com/)
 
 ### AI ReGex Tools
 
