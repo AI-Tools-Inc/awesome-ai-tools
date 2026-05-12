@@ -196,6 +196,7 @@ If you find this helpful, please give us a Star!
 
 ### AI Image Editors
 
+- [ClearCrowds](https://clearcrowds.com) - Remove crowds, objects, clutter, and other distractions from photos with AI presets and natural-language prompts [![link]](https://clearcrowds.com/)
 - [Lensa](https://aitools.inc/tools/lensa) - Transform your photos with one tap [![link]](https://prisma-ai.com/lensa)
 - [Dzine AI](https://aitools.inc/tools/dzine-ai) - Simple AI image editing [![link]](https://www.dzine.ai/)
 - [Adobe Photoshop](https://aitools.inc/tools/adobe-photoshop) - Turn your ideas into stunning visuals [![link]](https://www.adobe.com/products/photoshop.html)
