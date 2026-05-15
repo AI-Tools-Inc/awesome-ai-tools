@@ -244,6 +244,7 @@ If you find this helpful, please give us a Star!
 
 ### AI Thumbnail Makers
 
+- [ThumblifyAI](https://aitools.inc/tools/thumblifyai) - Create Thumbnails That Make People Click [![link]](https://thumblifyai.com/)
 - [Thumbly](https://aitools.inc/tools/thumbly) - Skyrocket your video views with captivating thumbnails [![link]](https://www.thumbly.io/)
 - [Pikzels](https://aitools.inc/tools/pikzels) - Create thumbnails that captivate viewers [![link]](https://www.pikzels.com/)
 - [vidIQ](https://aitools.inc/tools/vidiq) - Accelerate your YouTube audience growth [![link]](https://vidiq.com/)
