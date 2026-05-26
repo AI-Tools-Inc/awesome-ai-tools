@@ -112,6 +112,7 @@ If you find this helpful, please give us a Star!
 - [Quillbot](https://aitools.inc/tools/quillbot) - Write better, faster, and clearer [![link]](https://quillbot.com/)
 - [Anyword](https://aitools.inc/tools/anyword) - Create high-converting copy at scale [![link]](https://anyword.com/)
 - [Sudowrite](https://aitools.inc/tools/sudowrite) - Your AI writing partner [![link]](https://www.sudowrite.com)
+- [Noren](https://usenoren.ai/) - Creates reusable voice profiles from writing samples so AI drafts match a writer's style [![link]](https://github.com/usenoren/noren-app)
 - [Rytr](https://aitools.inc/tools/rytr) - Your AI writing companion [![link]](https://rytr.me)
 - [Writesonic](https://aitools.inc/tools/writesonic) - Craft compelling content that drives results [![link]](https://writesonic.com/)
 - [Copy AI](https://aitools.inc/tools/copy-ai) - Supercharge your marketing copy [![link]](https://www.copy.ai/)
