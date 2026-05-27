@@ -202,6 +202,7 @@ If you find this helpful, please give us a Star!
 - [Playground AI](https://aitools.inc/tools/playground-ai) - Create and edit images like a pro [![link]](https://playground.com/)
 - [Pixlr](https://aitools.inc/tools/pixlr) - Create professional-grade images in minutes [![link]](https://pixlr.com/)
 - [Vance AI](https://aitools.inc/tools/vance-ai) - Remove backgrounds with precision and ease [![link]](https://vanceai.com/)
+- [igly.ai](https://igly.ai) - Edit images with background removal, inpainting, upscaling, and generative fill [![link]](https://www.youtube.com/watch?v=HB2E1WZ12is)
 
 ### AI Photo Retouching Tools
 
