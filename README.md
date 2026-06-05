@@ -73,6 +73,7 @@ If you find this helpful, please give us a Star!
 - [CodeRabbit](https://aitools.inc/tools/coderabbit) - Elevate code quality with intelligent feedback [![link]](https://coderabbit.ai/)
 - [Sourcery](https://aitools.inc/tools/sourcery) - Supercharge your code reviews [![link]](https://sourcery.ai/)
 - [Bito AI](https://aitools.inc/tools/bito-ai) - Supercharge your coding productivity [![link]](https://bito.ai/)
+- [CoderPlan](https://coderplan.ai/) - LLM API Gateway with OpenAI-compatible interface, pay-per-use access to 100+ models [![link]](https://coderplan.ai/)
 - [Metabob](https://aitools.inc/tools/metabob) - Uncover hidden errors in your codebase [![link]](https://metabob.com/)
 
 ### AI SQL Tools
