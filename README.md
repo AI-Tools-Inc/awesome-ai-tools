@@ -201,6 +201,7 @@ If you find this helpful, please give us a Star!
 - [Adobe Photoshop](https://aitools.inc/tools/adobe-photoshop) - Turn your ideas into stunning visuals [![link]](https://www.adobe.com/products/photoshop.html)
 - [Playground AI](https://aitools.inc/tools/playground-ai) - Create and edit images like a pro [![link]](https://playground.com/)
 - [Pixlr](https://aitools.inc/tools/pixlr) - Create professional-grade images in minutes [![link]](https://pixlr.com/)
+- [igly.ai](https://igly.ai) - Edit product and social images with AI background removal, inpainting, upscaling, and generative fill [![link]](https://igly.ai)
 - [Vance AI](https://aitools.inc/tools/vance-ai) - Remove backgrounds with precision and ease [![link]](https://vanceai.com/)
 
 ### AI Photo Retouching Tools
