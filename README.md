@@ -331,6 +331,7 @@ If you find this helpful, please give us a Star!
 - [Speechwrite](https://aitools.inc/tools/speechwrite) - Increase your productivity with efficient dictation [![link]](https://www.speechwrite.com/)
 - [Sonix AI](https://aitools.inc/tools/sonix-ai) - Simple transcription with instant speech-to-text conversion [![link]](https://sonix.ai/)
 - [Turboscribe](https://aitools.inc/tools/turboscribe) - Turn your meetings, podcasts, and videos into text [![link]](https://turboscribe.ai/)
+- [Whisper by Remskill](https://whisper.remskill.com) - Hotkey voice-to-text dictation for Windows and macOS, fully offline or via the cloud [![link]](https://whisper.remskill.com/)
 
 ### AI Audio Translators
 
