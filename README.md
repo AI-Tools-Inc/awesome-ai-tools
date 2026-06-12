@@ -116,6 +116,7 @@ If you find this helpful, please give us a Star!
 - [Writesonic](https://aitools.inc/tools/writesonic) - Craft compelling content that drives results [![link]](https://writesonic.com/)
 - [Copy AI](https://aitools.inc/tools/copy-ai) - Supercharge your marketing copy [![link]](https://www.copy.ai/)
 - [Cohesive](https://aitools.inc/tools/cohesive) - Transform ideas into polished masterpieces [![link]](https://cohesive.so/)
+- [CreatorSkills](https://creatorskills.co) - Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
 
 ### AI Content Repurposing Tools
 
