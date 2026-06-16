@@ -256,6 +256,7 @@ If you find this helpful, please give us a Star!
 - [invideo AI](https://aitools.inc/tools/invideo-ai) - Create publish-ready videos with text prompts [![link]](https://invideo.io/ai/)
 - [Fliki](https://aitools.inc/tools/fliki) - Turn your text into captivating videos [![link]](https://fliki.ai/)
 - [Genmo AI](https://aitools.inc/tools/genmo-ai) - Bring your stories to life through video [![link]](https://www.genmo.ai/)
+- [ImagineClip](https://aitools.inc/tools/imagineclip) - Fun AI video generator for avatar clips, stylized scenes, and social-ready content [![link]](https://imagineclip.com/)
 - [Wonder Studio](https://aitools.inc/tools/wonder-studio) - Bring CG characters to life effortlessly [![link]](https://wonderdynamics.com/)
 - [Vidnoz](https://aitools.inc/tools/vidnoz) - Turn text into professional videos [![link]](https://www.vidnoz.com)
 - [Deepshot AI](https://aitools.inc/tools/deepshot-ai) - Reimagine video editing possibilities [![link]](https://www.deepshot.ai/)
