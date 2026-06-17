@@ -17,6 +17,7 @@ If you find this helpful, please give us a Star!
   - [AI ReGex Tools](#ai-regex-tools)
   - [AI Image To Code Tools](#ai-image-to-code-tools)
   - [AI Website Builders](#ai-website-builders)
+  - [AI Knowledge & Memory Tools](#ai-knowledge--memory-tools)
 - [AI Marketing Tools](#ai-marketing-tools)
   - [AI Copywriting Tools](#ai-copywriting-tools)
   - [AI Content Repurposing Tools](#ai-content-repurposing-tools)
@@ -103,6 +104,10 @@ If you find this helpful, please give us a Star!
 - [10web](https://aitools.inc/tools/10web) - Transform your ideas into high-performance websites [![link]](https://10web.io/)
 - [Bubble](https://aitools.inc/tools/bubble) - Build powerful web apps visually [![link]](https://bubble.io/)
 - [Dorik](https://aitools.inc/tools/dorik) - Transform ideas into professional websites [![link]](https://dorik.com/)
+
+### AI Knowledge & Memory Tools
+
+- [Remio](https://remio.ai/) - Local-first AI memory and knowledge base desktop app for focused personal and agent context retrieval [![link]](https://remio.ai/)
 
 ## AI Marketing Tools
 
