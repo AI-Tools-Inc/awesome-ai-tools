@@ -170,6 +170,7 @@ If you find this helpful, please give us a Star!
 
 ### AI Sales Assistants
 
+- [CallURL](https://callurl.com) - Build shareable AI call apps in 60 seconds [![link]](https://callurl.com/)
 - [Tome](https://aitools.inc/tools/tome) - Close more deals [![link]](https://tome.app/)
 - [REP AI](https://aitools.inc/tools/rep-ai) - Transform window shoppers into loyal customers [![link]](https://www.hellorep.ai/)
 
