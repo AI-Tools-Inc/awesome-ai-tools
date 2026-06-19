@@ -141,6 +141,7 @@ If you find this helpful, please give us a Star!
 - [Quattr](https://aitools.inc/tools/quattr) - Unlock your site's organic growth potential [![link]](https://www.quattr.com/)
 - [Writeseed](https://aitools.inc/tools/writeseed) - Transform your ideas into polished prose [![link]](https://writeseed.com/)
 - [SEO AI](https://aitools.inc/tools/seo-ai) - Unlock top search positions for your website [![link]](https://seo.ai/)
+- [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads — connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP [![link]](https://github.com/nowork-studio/NotFair)
 
 ### AI Landing Page Generators
 
