@@ -160,6 +160,7 @@ If you find this helpful, please give us a Star!
 ### AI Influencer Generators
 
 - [Glambase](https://aitools.inc/tools/glambase) - Create and monetize your virtual influencer [![link]](https://glambase.app/)
+- [Picovix](https://aitools.inc/tools/picovix) - Generate a consistent AI character across unlimited scenes [![link]](https://www.picovix.app/)
 
 ### AI UGC Tools
 
