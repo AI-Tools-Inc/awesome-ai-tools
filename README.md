@@ -209,6 +209,7 @@ If you find this helpful, please give us a Star!
 - [Cleanup.pictures](https://aitools.inc/tools/cleanup-pictures) - Erase unwanted elements from your photos [![link]](https://cleanup.pictures/)
 - [Remini](https://aitools.inc/tools/remini) - Bring faded images back to life [![link]](https://remini.ai/)
 - [BeautyPlus](https://aitools.inc/tools/beautyplus) - Transform your images with a tap [![link]](https://www.beautyplus.com/)
+- [HairWow](https://www.gohairwow.com/) - Preview hairstyles, colors, and beard styles on a photo before a salon or barber visit [![link]](https://www.gohairwow.com/)
 
 ### AI Avatar Generators
 
