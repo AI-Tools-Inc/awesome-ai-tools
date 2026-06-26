@@ -61,6 +61,7 @@ If you find this helpful, please give us a Star!
 ### AI Coding Assistants
 
 - [GitHub Copilot](https://aitools.inc/tools/github-copilot) - Code smarter, build faster [![link]](https://github.com/features/copilot)
+- [Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 - [Cursor](https://www.cursor.com/) - Supercharge your coding workflow [![link]](https://www.cursor.com/)
 - [tabnine](https://aitools.inc/tools/tabnine) - Supercharge your coding workflow [![link]](https://www.tabnine.com/)
 - [Codeium](https://aitools.inc/tools/codeium) - Elevate your code with intelligent testing [![link]](https://codeium.com/)
