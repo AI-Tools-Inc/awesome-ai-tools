@@ -58,6 +58,10 @@ If you find this helpful, please give us a Star!
 
 ## AI Developer Tools
 
+### AI API Gateways
+
+- [DaoXE](https://daoxe.com/) - Multi-model multi-protocol AI API gateway for Chat Completions, Responses, and Anthropic Messages [![link]](https://daoxe.com/)
+
 ### AI Coding Assistants
 
 - [GitHub Copilot](https://aitools.inc/tools/github-copilot) - Code smarter, build faster [![link]](https://github.com/features/copilot)
