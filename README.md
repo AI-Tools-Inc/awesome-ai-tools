@@ -315,6 +315,7 @@ If you find this helpful, please give us a Star!
 
 ### AI Text To Speech Tools
 
+- [CharaVox](https://charavox.com) - AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM.
 - [ElevenLabs](https://aitools.inc/tools/elevenlabs) - Create lifelike AI voices in minutes [![link]](https://elevenlabs.io/)
 - [LOVO AI](https://aitools.inc/tools/lovo-ai) - Natural AI voices at your fingertips [![link]](https://lovo.ai/)
 - [Respeecher](https://aitools.inc/tools/respeecher) - AI-powered voice transformation [![link]](https://www.respeecher.com/)
