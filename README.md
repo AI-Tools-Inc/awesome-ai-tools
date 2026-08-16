@@ -255,6 +255,7 @@ If you find this helpful, please give us a Star!
 - [Runway](https://aitools.inc/tools/runway) - Unleash impossible video creations [![link]](https://runwayml.com/)
 - [invideo AI](https://aitools.inc/tools/invideo-ai) - Create publish-ready videos with text prompts [![link]](https://invideo.io/ai/)
 - [Fliki](https://aitools.inc/tools/fliki) - Turn your text into captivating videos [![link]](https://fliki.ai/)
+- [videos.social](https://videos.social/?utm_source=aitools-inc-awesome&utm_medium=directory&utm_campaign=listing-wave-d) - Turn blogs, PDFs, and prompts into editable faceless videos. Start free — 1 render included. [![link]](https://videos.social/?utm_source=aitools-inc-awesome&utm_medium=directory&utm_campaign=listing-wave-d)
 - [Genmo AI](https://aitools.inc/tools/genmo-ai) - Bring your stories to life through video [![link]](https://www.genmo.ai/)
 - [Wonder Studio](https://aitools.inc/tools/wonder-studio) - Bring CG characters to life effortlessly [![link]](https://wonderdynamics.com/)
 - [Vidnoz](https://aitools.inc/tools/vidnoz) - Turn text into professional videos [![link]](https://www.vidnoz.com)
