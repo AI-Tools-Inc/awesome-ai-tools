@@ -309,6 +309,7 @@ If you find this helpful, please give us a Star!
 - [DeepMotion](https://aitools.inc/tools/deepmotion) - Transform videos into lifelike 3D animations [![link]](https://www.deepmotion.com/)
 - [Animaker](https://aitools.inc/tools/animaker) - Transform your story into captivating animations [![link]](https://www.animaker.com/)
 - [Krikey AI](https://aitools.inc/tools/krikey-ai) - Bring your 3D ideas to life in minutes [![link]](https://www.krikey.ai/)
+- [Luphra](https://www.luphra.com/) - Turn prompts and sketches into editable 3D and physical products [![link]](https://www.luphra.com/)
 - [GoEnhance AI](https://aitools.inc/tools/goenhance-ai) - Transform ordinary videos into extraordinary animations [![link]](https://www.goenhance.ai/)
 
 ## AI Audio Tools
