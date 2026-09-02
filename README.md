@@ -131,6 +131,10 @@ If you find this helpful, please give us a Star!
 - [Flickify](https://aitools.inc/tools/flickify) - Effortlessly turn articles into engaging videos [![link]](https://www.flickify.com/)
 - [Powder](https://aitools.inc/tools/powder) - Turn long streams into viral-ready clips [![link]](https://powder.gg/)
 
+### AI Social Media Publishing Tools
+
+- [BulkPublish](https://aitools.inc/tools/bulkpublish) - Schedule and publish approved social content in bulk for AI-agent workflows [![link]](https://www.bulkpublish.com/)
+
 ### AI SEO Tools
 
 - [Machined](https://aitools.inc/tools/machined) - Elevate your SEO game with automated clusters [![link]](https://machined.ai/)
