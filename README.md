@@ -273,6 +273,7 @@ If you find this helpful, please give us a Star!
 - [Clipchamp](https://aitools.inc/tools/clipchamp) - Transform your footage into captivating videos [![link]](https://clipchamp.com/)
 - [Vmaker AI](https://aitools.inc/tools/vmaker-ai) - Turn ordinary footage into captivating stories [![link]](https://www.vmaker.com/)
 - [HitPaw AI](https://aitools.inc/tools/hitpaw-ai) - Remove unwanted elements from your videos and images [![link]](https://www.hitpaw.com/)
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Compose and edit videos through a local CLI and MCP toolkit [![link]](https://github.com/Orkas-AI/Orkas-VideoStudio)
 
 ### AI Video Clip & Short Form Video Generators
 
