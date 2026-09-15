@@ -67,6 +67,7 @@ If you find this helpful, please give us a Star!
 - [Phind](https://aitools.inc/tools/phind) - From idea to code in record time [![link]](https://www.phind.com/search?home=true)
 - [Code Snippets AI](https://aitools.inc/tools/code-snippets-ai) - Revolutionize your coding workflow [![link]](https://codesnippets.ai/)
 - [Workik AI](https://aitools.inc/tools/workik-ai) - Code smarter with context-aware assistance [![link]](https://workik.com/)
+- [Orkas](https://github.com/Orkas-AI/Orkas) - Open-source, local-first desktop AI workforce coordinated by a Commander through one chat. Coordinates local coding agents. [![link]](https://orkas.ai/?source=gh_aitinc)
 
 ### AI Code Review Tools
 
