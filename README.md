@@ -373,5 +373,6 @@ If you find this helpful, please give us a Star!
 - [Paxton AI](https://aitools.inc/tools/paxton-ai) - Improve your legal research [![link]](https://www.paxton.ai/)
 - [vLex](https://aitools.inc/tools/vlex) - AI-powered platform for legal research [![link]](https://vlex.com/)
 - [AI Lawyer](https://aitools.inc/tools/ai-lawyer-pro) - Effortlessly automate legal tasks [![link]](https://ailawyer.pro/)
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 [link]: https://raw.githubusercontent.com/AI-Tools-Inc/Awesome-AI-Tools/main/link_icon.svg "Link Icon"
