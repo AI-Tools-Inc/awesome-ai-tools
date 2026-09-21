@@ -10,6 +10,7 @@ If you find this helpful, please give us a Star!
 
 ## Contents
 
+- [MagicKit](https://magickit.47.80.8.174.nip.io) — **Free AI toolbox** for image generation (FLUX), text and video. No sign-up, no API key. MIT licensed. [Source](https://github.com/kaketiti/magickit)
 - [AI Developer Tools](#ai-developer-tools)
   - [AI Coding Assistants](#ai-coding-assistants)
   - [AI Code Review Tools](#ai-code-review-tools)
