@@ -188,6 +188,7 @@ If you find this helpful, please give us a Star!
 
 ### AI Image Generators
 
+- [Raphael](https://raphael.app/) - Free AI image generator for text-to-image and editing [![link]](https://raphael.app/)
 - [Midjourney](https://aitools.inc/tools/midjourney) - Turn words into art instantly [![link]](https://midjourney.com)
 - [Stable Diffusion](https://aitools.inc/tools/stable-diffusion) - Transform text into photorealistic images [![link]](https://stability.ai/)
 - [Adobe Firefly](https://aitools.inc/tools/adobe-firefly) - Generate stunning visuals with ease [![link]](https://www.adobe.com/products/firefly.html)
