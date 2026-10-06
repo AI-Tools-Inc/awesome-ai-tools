@@ -160,6 +160,7 @@ If you find this helpful, please give us a Star!
 ### AI Influencer Generators
 
 - [Glambase](https://aitools.inc/tools/glambase) - Create and monetize your virtual influencer [![link]](https://glambase.app/)
+- [Clout](https://tryclout.ai/) - Create consistent AI characters and generate photos and videos for social content.
 
 ### AI UGC Tools
 
