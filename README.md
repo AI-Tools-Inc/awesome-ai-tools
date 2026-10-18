@@ -259,7 +259,8 @@ If you find this helpful, please give us a Star!
 - [Wonder Studio](https://aitools.inc/tools/wonder-studio) - Bring CG characters to life effortlessly [![link]](https://wonderdynamics.com/)
 - [Vidnoz](https://aitools.inc/tools/vidnoz) - Turn text into professional videos [![link]](https://www.vidnoz.com)
 - [Deepshot AI](https://aitools.inc/tools/deepshot-ai) - Reimagine video editing possibilities [![link]](https://www.deepshot.ai/)
-- [HeyGen](https://aitools.inc/tools/heygen) - Scale your video content effortlessly [![link]](https://www.heygen.com/)
+- [HeyGen](https://aitools.inc/tools/heygen) - Scale your video content effortlessly
+- [MotionCasa](https://motioncasa.com/) - Turns listing photos into short AI motion clips for property marketing [![link]](https://www.heygen.com/)
 
 ### AI Video Editors
 
