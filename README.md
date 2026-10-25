@@ -123,6 +123,7 @@ If you find this helpful, please give us a Star!
 - [Castmagic](https://aitools.inc/tools/castmagic) - Transform your conversations into content gold [![link]](https://www.castmagic.io/)
 - [Vidyo AI](https://aitools.inc/tools/vidyo-ai) - Repurpose your content for social media success [![link]](https://vidyo.ai/)
 - [Flowjin](https://aitools.inc/tools/flowjin) - Repurpose long videos into captivating short clips [![link]](https://www.flowjin.com/)
+- [Ideoy](https://ideoy.ai) - Remake trending short-form video templates from one photo or selfie [![link]](https://ideoy.ai)
 - [OpusClip](https://aitools.inc/tools/opusclip) - Repurpose your videos into social media gold [![link]](https://www.opus.pro/)
 - [Unifire AI](https://aitools.inc/tools/unifire-ai) - Transform one upload into endless formats [![link]](https://www.unifire.ai/)
 - [Vizard](https://aitools.inc/tools/vizard) - Transform lengthy content into captivating clips [![link]](https://vizard.ai/)
