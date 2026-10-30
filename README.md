@@ -297,6 +297,7 @@ If you find this helpful, please give us a Star!
 
 - [Captions](https://aitools.inc/tools/captions) - Elevate your video content effortlessly [![link]](https://www.captions.ai/)
 - [Simon Says AI](https://aitools.inc/tools/simon-says-ai) - Transcribe and translate in record time [![link]](https://www.simonsaysai.com/)
+- [Karaoke Captions](https://karaokecaptions.com/) - Browser-based word-by-word video captions with local speech recognition and MP4, SRT and VTT export.
 
 ### AI Talking Avatar Tools
 
