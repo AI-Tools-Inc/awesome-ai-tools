@@ -127,6 +127,7 @@ If you find this helpful, please give us a Star!
 - [Unifire AI](https://aitools.inc/tools/unifire-ai) - Transform one upload into endless formats [![link]](https://www.unifire.ai/)
 - [Vizard](https://aitools.inc/tools/vizard) - Transform lengthy content into captivating clips [![link]](https://vizard.ai/)
 - [Chopcast](https://aitools.inc/tools/chopcast) - Turn long videos into bite-sized social content [![link]](https://www.chopcast.io/)
+- [EasySociable](https://easysociable.com/?utm_source=ai-tools-inc-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks) - Turn prompts into branded social carousels inside your coding agent [![link]](https://easysociable.com/?utm_source=ai-tools-inc-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks)
 - [Wisecut AI](https://aitools.inc/tools/wisecut-ai) - Transform long videos into viral-worthy clips [![link]](https://www.wisecut.ai/)
 - [Flickify](https://aitools.inc/tools/flickify) - Effortlessly turn articles into engaging videos [![link]](https://www.flickify.com/)
 - [Powder](https://aitools.inc/tools/powder) - Turn long streams into viral-ready clips [![link]](https://powder.gg/)
