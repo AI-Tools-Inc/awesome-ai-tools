@@ -260,12 +260,14 @@ If you find this helpful, please give us a Star!
 - [Vidnoz](https://aitools.inc/tools/vidnoz) - Turn text into professional videos [![link]](https://www.vidnoz.com)
 - [Deepshot AI](https://aitools.inc/tools/deepshot-ai) - Reimagine video editing possibilities [![link]](https://www.deepshot.ai/)
 - [HeyGen](https://aitools.inc/tools/heygen) - Scale your video content effortlessly [![link]](https://www.heygen.com/)
+- [Cyanvid](https://cyanvid.com/?utm_source=github-ai-tools-inc-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks) - AI video generator from text/images with clear credit quotes [![link]](https://cyanvid.com/?utm_source=github-ai-tools-inc-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks)
 
 ### AI Video Editors
 
 - [Descript](https://aitools.inc/tools/descript) - Edit videos and podcasts like a document [![link]](https://www.descript.com/)
 - [Veed IO](https://aitools.inc/tools/veed-io) - Elevate your content with easy video editing [![link]](https://www.veed.io/)
 - [Capcut](https://aitools.inc/tools/capcut) - Elevate your content with powerful editing tools [![link]](https://www.capcut.com/)
+- [Barz Studio](https://barzvideo.com/?utm_source=github-ai-tools-inc-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks) - Free browser rap lyric video maker (bring your track; WebM export) [![link]](https://barzvideo.com/?utm_source=github-ai-tools-inc-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks)
 - [Jupitrr AI Video Maker](https://aitools.inc/tools/jupitrr) - Supercharge your content with relevant B-roll [![link]](https://jupitrr.com/)
 - [Flickify](https://aitools.inc/tools/flickify) - Effortlessly turn articles into engaging videos [![link]](https://www.flickify.com/)
 - [FlexClip](https://aitools.inc/tools/flexclip) - Elevate your content with effortless video editing [![link]](https://www.flexclip.com/)
