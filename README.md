@@ -61,6 +61,7 @@ If you find this helpful, please give us a Star!
 ### AI Coding Assistants
 
 - [GitHub Copilot](https://aitools.inc/tools/github-copilot) - Code smarter, build faster [![link]](https://github.com/features/copilot)
+- [AshuTeacher](https://ashuteacher.vercel.app) - AI-powered learning PWA & Android app (freemium) with an interactive voice blackboard tutor in 24+ languages, exam paper solver, adaptive quizzes, and a Project, Thesis & Research Studio.
 - [Cursor](https://www.cursor.com/) - Supercharge your coding workflow [![link]](https://www.cursor.com/)
 - [tabnine](https://aitools.inc/tools/tabnine) - Supercharge your coding workflow [![link]](https://www.tabnine.com/)
 - [Codeium](https://aitools.inc/tools/codeium) - Elevate your code with intelligent testing [![link]](https://codeium.com/)
